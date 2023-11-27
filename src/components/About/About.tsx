@@ -1,7 +1,7 @@
 import { FC } from "react";
 import "./About.css";
 import AboutImg from "../../assets/pp.jpg";
-import CV from "../../assets/aymenkadri-CV.pdf";
+import CV from "../../assets/cv.pdf";
 import Info from "./Info.tsx";
 
 const About: FC = () => {
