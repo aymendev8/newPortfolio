@@ -16,7 +16,7 @@ const fronted: FC = () => {
           <div className="skills__data">
             <i className="bx bx-badge-check"></i>
             <div>
-              <h3 className="skills__name">C</h3>
+              <h3 className="skills__name">JAVA</h3>
               <span className="skills__level">Intérmédiaire</span>
             </div>
           </div>
@@ -44,8 +44,8 @@ const fronted: FC = () => {
           <div className="skills__data">
             <i className="bx bx-badge-check"></i>
             <div>
-              <h3 className="skills__name">Haskell</h3>
-              <span className="skills__level">Novice</span>
+              <h3 className="skills__name">SQL</h3>
+              <span className="skills__level">Intérmédiaire</span>
             </div>
           </div>
         </div>

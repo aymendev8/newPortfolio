@@ -37,15 +37,15 @@ const Backend: FC = () => {
           <div className="skills__data">
             <i className="bx bx-badge-check"></i>
             <div>
-              <h3 className="skills__name">Data avec Python</h3>
+              <h3 className="skills__name">Data with Python</h3>
               <span className="skills__level">Intérmédiaire</span>
             </div>
           </div>
           <div className="skills__data">
             <i className="bx bx-badge-check"></i>
             <div>
-              <h3 className="skills__name">UML</h3>
-              <span className="skills__level">Intérmédiaire</span>
+              <h3 className="skills__name">POWER BI</h3>
+              <span className="skills__level">Novice</span>
             </div>
           </div>
         </div>

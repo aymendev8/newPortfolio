@@ -40,6 +40,10 @@
   font-weight: var(--font-medium);
 }
 
+.linkedin {
+  cursor: pointer;
+}
+
 .contact__card-data {
   display: block;
   margin-bottom: var(--mb-0-75);

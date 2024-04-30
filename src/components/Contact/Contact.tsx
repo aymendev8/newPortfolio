@@ -55,11 +55,18 @@ const Contact: FC = () => {
                 <i className="bx bx-right-arrow-alt contact__button-icon"></i>
               </a>
             </div>
-            <div className="contact__card">
-              <i className="bx bxl-discord contact__card-icon"></i>
+            <div
+              className="contact__card linkedin"
+              onClick={() =>
+                window.open(
+                  "https://www.linkedin.com/in/aymen-kadri-173083227/"
+                )
+              }
+            >
+              <i className="bx bxl-linkedin contact__card-icon"></i>
 
-              <h3 className="contact__card-title">discord</h3>
-              <span className="contact__card-data">aymenn8</span>
+              <h3 className="contact__card-title">Linkedin</h3>
+              <span className="contact__card-data">Aymen Kadri</span>
 
               <p className="contact__button">
                 Écris-moi{" "}

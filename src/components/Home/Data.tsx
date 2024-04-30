@@ -4,7 +4,7 @@ const Data: FC = () => {
   return (
     <div className="home__data">
       <h1 className="home__title">Aymen Kadri</h1>
-      <h3 className="home__subtitle">Developpeur Fullstack</h3>
+      <h3 className="home__subtitle">Data Engineer</h3>
       <p className="home__description">
         Je suis Etudiant en informatique en troisième année à l'université
         catholique de Lille, et alternant chez{" "}
